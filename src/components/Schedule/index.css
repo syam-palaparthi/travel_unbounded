@@ -1,0 +1,10 @@
+.mains-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #2e2d2d;
+}
+.head {
+  color: #fff;
+  font-size: 20px;
+}

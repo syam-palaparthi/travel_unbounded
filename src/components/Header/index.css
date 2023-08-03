@@ -1,0 +1,21 @@
+.image {
+  width: 100px;
+  height: 70px;
+  font-size: 30px;
+}
+.bg-container {
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 20px;
+  padding-left: 30px;
+}
+.un-container {
+  display: flex;
+  list-style-type: none;
+  color: azure;
+}
+.list-items {
+  margin: 8px;
+  text-decoration: none;
+}
